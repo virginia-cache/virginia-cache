@@ -32,4 +32,4 @@ This tool is in early testing and shared by invitation. If the download link sho
 
 ---
 
-*Built by Mike Keefe. Each tool's own page lists its license and credits.*
+
